@@ -4,4 +4,4 @@
 We are a small startup focused on developer tools.
 
 ## Products:
-- ignotum events (coming soon)
+- (coming soon)
