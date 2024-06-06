@@ -1,7 +1,6 @@
 ![ignotum logo](https://avatars.githubusercontent.com/u/163140183?s=200&v=4)
 # Ignotum
 
-We are a small startup working on a TicketAPI and Marketplace.
+Welcome to Ignotum! Our mission is to simplify your ticket management with developer and no-code tools for easy handling and verification.
 
-## Products:
-- TicketAPI (Coming July 1st)
+Stay tuned for our first product launch coming soon!
