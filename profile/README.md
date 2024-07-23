@@ -1,6 +1,10 @@
 ![ignotum logo](https://avatars.githubusercontent.com/u/163140183?s=200&v=4)
 # Ignotum
 
-Welcome to Ignotum! Our mission is to simplify your ticket management with developer and no-code tools for easy handling and verification.
+Introducing TicketAPI
 
-Stay tuned for our first product launch coming soon!
+Simplify Your Ticket Management
+
+With TicketAPI you can create and customize tickets for your events with just a few lines of code. Say goodbye to complicated ticketing systems and hello to effortless ticket management so you can focus on your events.
+TicketAPI is currently in developer beta, but we plan to make it stable by early next year.
+Go to [ignotum.dev](https://ignotum.dev) to get started today for free.
